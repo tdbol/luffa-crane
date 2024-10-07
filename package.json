@@ -9,15 +9,16 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "next": "latest",
-    "react": "latest",
-    "react-dom": "latest",
-    "@radix-ui/react-switch": "latest",
     "@radix-ui/react-label": "latest",
     "@radix-ui/react-select": "latest",
-    "@radix-ui/react-slider": "latest"
+    "@radix-ui/react-slider": "latest",
+    "@radix-ui/react-switch": "latest",
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest"
   },
   "devDependencies": {
+    "@shadcn/ui": "^0.0.4",
     "@types/node": "latest",
     "@types/react": "latest",
     "@types/react-dom": "latest",
